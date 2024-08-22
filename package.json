@@ -1,0 +1,16 @@
+{
+  "name": "aula-05",
+  "version": "1.0.0",
+  "description": "O projeto inicial de Back-End com Node.Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "bach-end",
+    "senai"
+  ],
+  "author": "Evelyn Oliveira",
+  "license": "MIT"
+}
